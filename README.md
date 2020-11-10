@@ -1,4 +1,12 @@
-### Hi there 👋
+🧙‍♂️ Greetings, weary traveler. Welcome to my GitHub page! 🐉
+
+<details open>
+<summary>A bit about me...</summary>
+- 📫 How to reach me: jdoo.code@gmail.com
+- 😄 Pronouns: he/him/his
+- 🌱 I’m currently learning [Vue.js](https://vuejs.org/)
+- ⚡ Fun fact: I'm an avid D&D player, Magic: The Gathering enthusiast, and fantasy football expert.
+</details>
 
 <!--
 **john-doolittle/john-doolittle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
