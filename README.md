@@ -1,5 +1,5 @@
 <br>
-<span style="font-family: 'Courier New';">
+<span style="font-family: 'Courier New', sans-serif;">
 <p align="center">
   🧙‍♂️ Greetings, weary traveler. Welcome to my GitHub page!
 </p>
