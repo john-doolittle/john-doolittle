@@ -1,9 +1,9 @@
 <p align="center">
   <br>
-🧙‍♂️ <span style="font-family: 'Courier New';">Greetings, weary traveler. Welcome to my GitHub page!</span> 🐉
+🧙‍♂️ <span style="font-family: Courier New;">Greetings, weary traveler. Welcome to my GitHub page!</span> 🐉
 </p>
 
-<details open>
+<details>
 <summary>A bit about me...</summary>
   <br>
   <ul>
