@@ -1,6 +1,6 @@
 <br>
-<span style="font-family: 'Courier New', sans-serif;">
-<p align="center">
+<span>
+<p align="center" style="font-family: 'Courier New';">
   🧙‍♂️ Greetings, weary traveler. Welcome to my GitHub page!
 </p>
 </span>
@@ -8,12 +8,11 @@
 <details>
 <summary>A bit about me...</summary>
   <br>
-  <ul>
-<li> 📫 How to reach me: jdoo.code@gmail.com</li>
-<li> 😄 Pronouns: he/him/his</li>
-<li> 🌱 I’m currently learning Vue.js</li>
-<li> ⚡ Fun fact: I'm an avid D&D player, Magic: The Gathering enthusiast, and fantasy football expert.</li>
-  </ul>
+
+📫 How to reach me: jdoo.code@gmail.com  
+😄 Pronouns: he/him/his  
+🌱 I’m currently learning Vue.js  
+⚡ Fun fact: I'm an avid D&D player, Magic: The Gathering enthusiast, and fantasy football expert  
 </details>
 
 <!--
