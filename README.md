@@ -9,10 +9,10 @@
 <summary>A bit about me...</summary>
   <br>
 
-📫 How to reach me: jdoo.code@gmail.com  
-😄 Pronouns: he/him/his  
-🌱 I’m currently learning Vue.js  
-⚡ Fun fact: I'm an avid D&D player, Magic: The Gathering enthusiast, and fantasy football expert  
+📫 How to reach me: jdoo.code@gmail.com  
+😄 Pronouns: he/him/his  
+🌱 I’m currently learning Vue.js  
+⚡ Fun fact: I'm an avid D&D player, Magic: The Gathering enthusiast, and fantasy football expert  
 </details>
 
 <!--
