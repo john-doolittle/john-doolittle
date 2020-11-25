@@ -1,6 +1,6 @@
 <br>
 <span>
-<p align="center" style="font-family: 'Courier New';">
+<p align="center">
   🧙‍♂️ Greetings, weary traveler. Welcome to my GitHub page!
 </p>
 </span>
