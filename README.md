@@ -1,8 +1,11 @@
 <br>
 <span>
 <p align="center">
-  🧙‍♂️ Greetings, weary traveler. Welcome to my GitHub page!
+  🧙‍♂️ Greetings, weary traveler. Welcome to my GitHub page! 
 </p>
+ <p align="center">
+  My current company uses Bitbucket, so it may look a little lonely in here.
+ </p>
 </span>
 
 <details>
