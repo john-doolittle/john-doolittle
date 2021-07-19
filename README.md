@@ -4,7 +4,7 @@
   🧙‍♂️ Greetings, weary traveler. Welcome to my GitHub page! 
 </p>
  <p align="center">
-  My current company uses Bitbucket, so it may look a little lonely in here.
+  I was on Bitbucket for a time, so it may look a little spacious in here.
  </p>
 </span>
 
@@ -14,7 +14,7 @@
 
 📫 How to reach me: jdoo.code@gmail.com  
 😄 Pronouns: he/him/his  
-🌱 I’m currently learning Vue.js  
+🔭 I’m currently working on my portfolio site
 ⚡ Fun fact: I'm an avid D&D player, Magic: The Gathering enthusiast, and fantasy football expert  
 </details>
 
