@@ -3,9 +3,6 @@
 <p align="center">
   🧙‍♂️ Greetings, weary traveler. Welcome to my GitHub page! 
 </p>
- <p align="center">
-  I was on Bitbucket for a time, so it may look a little spacious in here.
- </p>
 </span>
 
 <details>
@@ -14,8 +11,7 @@
 
 📫 How to reach me: jdoo.code@gmail.com  
 😄 Pronouns: he/him/his  
-🔭 I’m currently working on my portfolio site
-⚡ Fun fact: I'm an avid D&D player, Magic: The Gathering enthusiast, and fantasy football expert  
+⚡ Fun fact: I'm an avid D&D player, Magic: The Gathering enthusiast, and fantasy football expert.
 </details>
 
 <!--
